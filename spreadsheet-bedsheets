@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<head>
+  <img id="logo" src="/Users/benscully/Desktop/SpreadsheetBedsheets/Logo_Updated.png" alt="Spreadsheet Bedsheets Logo">
+  <div id="headersocial"><a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
+    <a href="#" class="fa fa-twitter"></a></div>
+</head>
+<div id="intromessageshape">
+<h1 id="intromessage">Tired of counting sheep? There's a formula for that.</h1>
+</div>
+<img id="illustration" src="/Users/benscully/Desktop/SpreadsheetBedsheets/Spreadsheet-01.png" alt="beautiful nerd with beautiful dreams">
+<div id="landingpagetext">
+<h2 id="landingpageheading">If you’re like us, you probably have a Google Drive account packs to the cells with spreadsheets.</h2>
+<p class="landingpage">Whether you use Excel or Sheets, you’re part of the formula. At Spreadsheet Bedsheets, we want you to take your work home with you.</p>
+<p class="landingpage">You’ve made budgets, itineraries, inventories, rosters, pivot tables, databases, calculators, project management tools, contact lists, to-do sheets, logs, your boss angry, reports, brand new formulas, pie charts, filters, and countless (not really, that’s the point) rows and columns. Now, the only thing you won’t want to make is your bed.</p>
+<p class="landingpage">Want to be on the list (it’s a spreadsheet) for your Spreadsheet Bedsheet? <a href="http://bit.ly/2FvG6Le" target="_blank">Click here </a>to sign up for yours.</p>
+</div>
+<div class="landingimage">
+</div>
+<div id="productpage">
+<h2 id="productpageheading">You take your spreadsheets seriously, and so do we. All Spreadsheet Bedsheets are made with Egyptian Cotton and a 300-thread count. You worry about your spreadsheets, we’ll take care of the quality of your sleep.</h2>
+<p class="productpage">We believe that all spreadsheets are created equal, whether you’re working with a .csv, .xlsx, .xls, or .docx – we’ll work with you unless you're using Numbers. No. Our team of designers are just like you and won’t “Autofit Column Width” unless that’s the way you intended. And even if you’re sleeping on a Twin bed (we get it, spreadsheets can be lonely work), we’ll create the best fit for you and your spreadsheets.</p>
+<p class="productpage">At Spreadsheet Bedsheets, we have standards. It’s our belief that the more colors you use, the less effective your data becomes. And while every formula has value (especially Vlookup), we’ll let you know if you’ve gone overboard.</p>
+</div>
+<div class="productimage">
+    </div>
+<div id="footer">
+<h3 id="footertext">Sign up for your Spreadsheet Bedsheet <a href="http://bit.ly/2FvG6Le" target="_blank">right here</a> to add your spreadsheet to the waiting list.</h2>
+</div>
+<a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
+<a href="#" class="fa fa-twitter"></a>
+
+
+</body>
+</html>
