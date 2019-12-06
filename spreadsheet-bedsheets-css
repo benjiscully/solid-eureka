@@ -1,0 +1,149 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding:0;
+  margin:0;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #D9D9D9
+}
+
+#logo {
+  width:130px;
+  float: left;
+  margin-left: 30px
+}
+
+#headersocial {
+    text-align: right;
+    padding-right: 1.2em;
+}
+
+#headersocial a {
+    border-radius: 8px;
+}
+
+#intromessageshape {
+  font-size: 2em;
+  color: white;
+  padding-right: 3%;
+  padding-left: 3%;
+  height: auto;
+  background-color: #F9CF00;
+
+  float:right;
+
+}
+
+#illustration {
+  width: 100%;
+}
+
+#landingpagetext {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 3%;
+  padding-left: 1%;
+  text-align: left;
+  height: auto;
+  background-color: #F19F4D;
+
+}
+
+#landingpageheading {
+  font-size: 2em;
+  color: white;
+}
+
+.landingpage {
+  font-size: 1.2em;
+  color: white;
+  padding-bottom: 10px;
+}
+
+#productpage {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 3%;
+  padding-left: 1%;
+  text-align: left;
+  height: auto;
+  background-color: #4484CE;
+}
+
+#productpageheading {
+  font-size: 2em;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.productpage {
+  font-size: 1.2em;
+  color: white;
+  padding-bottom: 10px;
+}
+
+#footer {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 3%;
+  padding-left: 1%;
+  text-align: left;
+  height: auto;
+  background-color: #4484CE;
+}
+
+#footertext {
+  font-size: 2em;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.fa {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-instagram {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.landingimage, .productimage {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.landingimage {
+  background-image: url("/Users/benscully/Desktop/SpreadsheetBedsheets/Photoshoot/V1.png");
+  min-height: 500px;
+}
+
+.productimage {
+  background-image: url("/Users/benscully/Desktop/SpreadsheetBedsheets/Photoshoot/V2.png");
+  min-height: 500px;
+}
